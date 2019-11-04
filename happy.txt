@@ -1,0 +1,8 @@
+This is the 1st file since there was issue in the other...
+
+use this now on
+
+
+1st modification to the txt file using the vim command to open the file
+
+
